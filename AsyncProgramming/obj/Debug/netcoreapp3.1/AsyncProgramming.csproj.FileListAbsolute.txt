@@ -1,0 +1,13 @@
+D:\PlayGround\AsyncProgramming\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.exe
+D:\PlayGround\AsyncProgramming\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.deps.json
+D:\PlayGround\AsyncProgramming\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.runtimeconfig.json
+D:\PlayGround\AsyncProgramming\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.runtimeconfig.dev.json
+D:\PlayGround\AsyncProgramming\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.dll
+D:\PlayGround\AsyncProgramming\AsyncProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.pdb
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.csprojAssemblyReference.cache
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.AssemblyInfoInputs.cache
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.AssemblyInfo.cs
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.csproj.CoreCompileInputs.cache
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.dll
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.pdb
+D:\PlayGround\AsyncProgramming\AsyncProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.genruntimeconfig.cache
